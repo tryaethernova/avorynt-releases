@@ -1,0 +1,27 @@
+﻿{
+    "product":  "Avorynt Browser",
+    "version":  "4.12.13",
+    "fileVersion":  "10.0.4.133",
+    "installer":  "Avorynt",
+    "helper":  "Fix2-CleanRelease",
+    "sourceListFix":  3,
+    "publisher":  "TryAetherNova",
+    "rid":  "win-x64",
+    "builtAtUtc":  "2026-09-22T12:50:49.1786690Z",
+    "sdk":  "9.0.318",
+    "selfContained":  true,
+    "frameworks":  [
+                       {
+                           "name":  "Microsoft.NETCore.App",
+                           "version":  "8.0.31"
+                       },
+                       {
+                           "name":  "Microsoft.WindowsDesktop.App",
+                           "version":  "8.0.31"
+                       }
+                   ],
+    "streamerEnabled":  false,
+    "webviewBootstrapperSha256":  "81c01751c8cc385a5991abb104205d42ac70094350ee8fb9e8ea580b51bb9554",
+    "installerDigitallySigned":  false,
+    "note":  "Lokal erstellt. Ein erfolgreiches Publish ersetzt keinen Windows-Funktionstest."
+}

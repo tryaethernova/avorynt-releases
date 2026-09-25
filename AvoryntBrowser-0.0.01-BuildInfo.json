@@ -1,0 +1,17 @@
+{
+  "product": "Avorynt Browser",
+  "releaseVersion": "0.0.01",
+  "fileVersion": "10.0.4.137",
+  "publisher": "TryAetherNova",
+  "runtimeIdentifier": "win-x64",
+  "selfContained": true,
+  "streamerEnabled": false,
+  "builtAtUtc": "2026-09-25T04:29:57.6812746Z",
+  "dotnetSdk": "9.0.318",
+  "innoSetup": "6",
+  "webViewBootstrapperBundled": true,
+  "webViewBootstrapperSha256": "81c01751c8cc385a5991abb104205d42ac70094350ee8fb9e8ea580b51bb9554",
+  "webViewFallback": "bundled-microsoft-bootstrapper",
+  "installerDigitallySigned": false,
+  "releaseManagerVersion": "0.4.2"
+}
